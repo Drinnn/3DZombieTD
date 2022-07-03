@@ -3,7 +3,17 @@ guid: c118f10fd757e1f4fa6abee5f6312e05
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Barricade_blood_D
+    second: {fileID: 2800000, guid: e2105620842906a4da04fdc140d602e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Template_D
+    second: {fileID: 2800000, guid: aaf21d129094c9d4582c947972bad4f4, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

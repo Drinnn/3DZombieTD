@@ -3,7 +3,12 @@ guid: 9ace24b6cb7346945a10d2648fcf530b
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DeathChair_SawBlade_M
+    second: {fileID: 2100000, guid: 96c40612f2cf4ec43a0af33ba4b96b7b, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

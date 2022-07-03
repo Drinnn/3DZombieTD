@@ -3,7 +3,37 @@ guid: 4832a4cb6cbbafe4f81e67689d1127c6
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalletRacking_1
+    second: {fileID: 2100000, guid: 677c641c0da46864b8b70392b3cb30da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalletRacking_2
+    second: {fileID: 2100000, guid: 8600c8e9b2cdf2947bb5ab64d3dc3754, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalletRacking_3
+    second: {fileID: 2100000, guid: ac860813e235e064c8496cf32463ef31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalletRacking_4
+    second: {fileID: 2100000, guid: c21639ae300254547bc23e73fa7f2f07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalletRacking_staircase_1
+    second: {fileID: 2100000, guid: c5978b64a6752bd4dafa3f1a89adc68b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PalletRacking_staircase_2
+    second: {fileID: 2100000, guid: e8c1ed1fab969fd46a4a61137f172b57, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

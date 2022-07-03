@@ -3,7 +3,22 @@ guid: aaa4a9d990aae044d9295c1119a80bc9
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_bottle_clean
+    second: {fileID: 2100000, guid: 8003bf354f110b544a84d733fcb4969f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_bottle_dirt
+    second: {fileID: 2100000, guid: 6d0bf9174190bf54eab3244e2257504b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas_bottle_fire
+    second: {fileID: 2100000, guid: e2253b130cd523444b29cbda377a59a3, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

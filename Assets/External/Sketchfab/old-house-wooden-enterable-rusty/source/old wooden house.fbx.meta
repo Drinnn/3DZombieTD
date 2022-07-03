@@ -6,7 +6,37 @@ ModelImporter:
   - first:
       74: 6744025521604693256
     second: WoodWall|CubeAction
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: iron
+    second: {fileID: 2100000, guid: bd5e84061f7d948429002d42e95dcf05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: others
+    second: {fileID: 2100000, guid: 528ef01ea5782fe4db9335b68ea374cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tilesglass
+    second: {fileID: 2100000, guid: 220cf9125497b754094b20c06de36aed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: woods
+    second: {fileID: 2100000, guid: 7f34e573d18f28e49a5ad71d963c1313, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: woodwall
+    second: {fileID: 2100000, guid: 6306b2145db8f3a4db9b9a2b859c0393, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zinc
+    second: {fileID: 2100000, guid: 73d943ea3cc153c45a26821f2e0e1d9a, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

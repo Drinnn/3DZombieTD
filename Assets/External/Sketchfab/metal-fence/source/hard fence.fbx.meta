@@ -3,7 +3,12 @@ guid: d8a97bbbec2bbd34db7729fcb4f5e40c
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HardFence
+    second: {fileID: 2100000, guid: 936903aca5c73da4eadc506f23944f8c, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
