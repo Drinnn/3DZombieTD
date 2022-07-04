@@ -43,6 +43,7 @@ GameObject:
   - component: {fileID: 5650112745268526258}
   - component: {fileID: 7397551437762378739}
   - component: {fileID: 8474649087562286515}
+  - component: {fileID: 7686758446125663309}
   m_Layer: 0
   m_Name: SM_Barricade
   m_TagString: Untagged
@@ -115,3 +116,16 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &7686758446125663309
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7006839941414115657}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.024871, y: 1.3029199, z: 1.9470913}
+  m_Center: {x: 0.50509346, y: 0.00054534886, z: -0.028099336}
